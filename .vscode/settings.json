@@ -1,0 +1,15 @@
+{
+    "git.enableSmartCommit": true,
+    "git.enableCommitSigning": true,
+    "editor.formatOnSave": true,
+    "editor.rulers": [
+        120
+    ],
+    "cSpell.words": [
+        "Werecodent",
+    ],
+    "cSpell.ignorePaths": [
+        ".gitignore",
+        ".vscode/",
+    ],
+}
