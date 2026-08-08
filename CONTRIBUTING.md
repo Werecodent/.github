@@ -4,7 +4,7 @@ Thank you for your interest in contributing.
 
 Please first discuss the change you wish to make via issue/request, email, or any other method with the owners of this repository before making changes. Failure to do so will likely lead to a declined pull request regardless of quality.
 
-Make sure to refer to and follow the [code of conduct](CODE_OF_CONDUCT.md).
+Make sure to refer to and follow the [code of conduct](.github/CODE_OF_CONDUCT.md). For environment setup, refer to the [.github/support](SUPPORT.md) page.
 
 ## Quality Requirements
 
@@ -19,19 +19,6 @@ Make sure to refer to and follow the [code of conduct](CODE_OF_CONDUCT.md).
 Pull requests will be reviewed thoroughly to maintain project quality.
 
 Note the ban on LLM-generated code. Developers do not have the right to submit LLM-generated code because that code can be incompatibly copyrighted or licensed elsewhere. Review the Developer Certificate of Origin adherence requirements below.
-
-# Git & GPG Quick Setup Example
-
-Set the following git configuration settings, replacing [xxx] with valid personal values:
-
-1) git config --global user.name "[xxx]"
-2) git config --global user.email "[xxx]@users.noreply.github.com"
-3) git config --global user.signingKey [xxx]
-4) git config --global tag.gpgSign true
-5) git config --global commit.gpgSign true
-6) git config --global push.gpgSign "if-asked"
-
-Read more about GPG keys in the following section.
 
 ## Developer Certificate of Origin (DCO)
 
