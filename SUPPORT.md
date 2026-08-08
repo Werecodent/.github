@@ -1,10 +1,10 @@
 # Support
 
-If you encounter any issue using the project, please create an issue for the project. Make sure to refer to and follow the [code of conduct](.github/CODE_OF_CONDUCT.md).
+If you encounter any issue using the project, please create an issue for the project. Make sure to refer to and follow the [code of conduct](./CODE_OF_CONDUCT.md).
 
 # Environment Setup
 
-Ensure you understand the [contributing](.github/CONTRIBUTING.md) requirements, then follow the instructions below relevant to your environment.
+Ensure you understand the [contributing](./CONTRIBUTING.md) requirements, then follow the instructions below relevant to your environment.
 
 ## Mac Environment Recommended Setup
 
