@@ -1,4 +1,4 @@
-# <img src="site/images/Create&Fake.svg" height=32px title="Logo" alt="" /> .github
+# <img src="images/Werecodent.svg" height=24px title="Logo" alt="" /> .github
 
 Contains all the default special files for the organization's repositories.
 
